@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rokid Style HA</string>
+    <string name="settings_title">Settings</string>
+    <string name="status_stopped">Service stopped</string>
+    <string name="status_not_configured">Add your Home Assistant URL and token in Settings.</string>
+    <string name="status_connecting">Connecting to Home Assistant...</string>
+    <string name="perm_audio_denied">Microphone permission is required.</string>
+</resources>
